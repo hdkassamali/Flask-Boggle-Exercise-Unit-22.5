@@ -1,0 +1,24 @@
+#boggle_board {
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+
+#boggle_table {
+  width: 100%;
+  height: 100%;
+}
+
+.board_row {
+  border: 1px solid black;
+}
+
+.board_letter {
+  border: 1px solid black;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  width: 20px;
+  height: 20px;
+}
